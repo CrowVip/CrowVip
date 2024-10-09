@@ -13,6 +13,8 @@ https://github.com/DRMStuff/o11-OTT-v2.2b1
 chmod +x o11_v22b1-DRMStuff
 ./o11_v22b1-DRMStuff
 
+o11-OTT-v2.2b1-main
+
 
 <!---
 CrowVip/CrowVip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
